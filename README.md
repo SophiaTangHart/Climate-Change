@@ -1,12 +1,13 @@
 # Climate-Change
 
-Sophia Tang Hart and Sarah White Eagle
+Sophia T Hart
 
-Kaggle Competition hosted by Women in Data Science (WiDS) Datathon 2023
+Women in Data Science (WiDS) Datathon 2023
 (https://www.kaggle.com/competitions/widsdatathon2023)
 
-Use data science to improve long-range weather forecasts to help people prepare and adapt to extreme weather events caused by climate change.
+I applied data science to improve long-range weather forecasts to help people prepare and adapt to extreme weather events caused by climate change.
 
-Implemented LightGBM, XGBoost, RandomForestRegressor, and ARIMA models, also used PCA to reduce feature dimension with 600MB training data (400,000 rows) including data drift resulting in top 57% on Kaggle Leaderboard position.
+I implemented LightGBM, XGBoost, and RandomForestRegressor. I used PCA to reduce feature dimension. Data were 600MB (400,000 rows). I used feature engineering to account for data drift. I ranked top 20% of 2,000 global WiDS Datathon participants (while some teams consisted of multiple people, I worked independently), or my project was top 57% on Kaggle Leaderboard position and this was my first WiDS Datathon/Kaggle competition.
 
-March 2023
+For future steps, I would implement ARIMA and compare its results with LightBGM, which was better than XGBoost in my project.
+
